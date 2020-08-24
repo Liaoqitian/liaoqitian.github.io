@@ -8,5 +8,5 @@ aside linkedin.button {
   padding-left: 64px;
   margin-bottom: 20px;
   font-size: 21px;
-  background: transparent url(https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/images/linkedin.png) 0 0 no-repeat;
+  background-color: yellow;
 }
