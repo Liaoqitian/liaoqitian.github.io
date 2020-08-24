@@ -1,12 +1,10 @@
-# Welcome!!
-
-## About me
+# About me
 
 Hello everyone! I am an EECS Masters student at University of California, Berkeley. I just finished my undergraduate career at the same school with double major in Computer Science and Applied Mathematics. Welcome to my personal website! Here you can learn more about my experiences and the projects I did. I am currently looking for a full-time software engineer position. Feel free to contact me! Thank you! 
 
 ![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/images/Sit.jpg)
 
-## Education Background
+# Education Background
 
 - **University of California, Berkeley \| Expected Graduation: Jun.2021**
   - M.S. Electrical Engineering and Computer Science                                                                          
@@ -16,7 +14,7 @@ Hello everyone! I am an EECS Masters student at University of California, Berkel
 
 ![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/images/berkeley.png)
 
-## Relevant Coursework 
+# Relevant Coursework 
 
 Here is a list of courses I have taken which might be relevant to my future job. 
 
@@ -42,7 +40,7 @@ Here is a list of courses I have taken which might be relevant to my future job.
 
 ![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/images/minecraft.png)
 
-## Professional Experiences 
+# Professional Experiences 
 
 - **Data Solutions Engineer Intern \| Wayfair LLC \| Boston MA \| June 2019 – August 2019** 
   - Recreated the metrics and visualizations, and streamlined the dashboard previously used by departments in EU with Vertica SQL, more illustrative front-end implementation, and multi-dimensional filters; created dashboard capitalized by 2000+ Pricing & Profit Management employees in Wayfair US, and EU to land business marketing strategies. 
