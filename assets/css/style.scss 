@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-aside linkedin.button {
+aside a.linkedin {
   display: block;
   width: 138px;
   padding-left: 64px;
