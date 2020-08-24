@@ -40,7 +40,7 @@ Here is a list of courses I have taken which might be relevant to my future job.
 | STATISTICS 135 | Concepts of Statistics                                       |
 | IEOR 173       | Introduction to Stochastic Processes                         |
 
-
+![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/images/berkeley.png)
 
 ## Professional Experiences 
 
@@ -53,31 +53,4 @@ Here is a list of courses I have taken which might be relevant to my future job.
   - Attained raw marketing and sales data of 100+ companies’ beverages using Bloomberg, categorized data with R, and analyzed and predicted marketing trends using Lagrange and Adam Moulton interpolation. 
   - Performed extensive industry research and data-mining on the marketing trends and premiumization of beverage, and drafted a five-page report on forecasting a gradual premiumization of beverages in the next decade in China. 
 
-[Link to another page](./another-page.html).
-
-### Large image
-
-
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
 
