@@ -40,7 +40,7 @@ Here is a list of courses I have taken which might be relevant to my future job.
 | STATISTICS 135 | Concepts of Statistics                                       |
 | IEOR 173       | Introduction to Stochastic Processes                         |
 
-![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/images/berkeley.png)
+![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/images/minecraft.png)
 
 ## Professional Experiences 
 
