@@ -6,75 +6,15 @@ Hello everyone! I am an EECS Masters student at University of California, Berkel
 
 ## Education Background
 
-- **University of California, Berkeley | Expected Graduation: Jun.2021**
+- **University of California, Berkeley \| Expected Graduation: Jun.2021**
   - M.S. Electrical Engineering and Computer Science                                                                          
-- **University of California, Berkeley | Aug.2016 – Jun. 2020**
+- **University of California, Berkeley \| Aug.2016 – Jun. 2020**
   - B.A. Computer Science, B.A. Applied Mathematics, Minor in German
   - Major GPA: 3.98, Overall GPA: 3.983 | Dean’s Honors to Date
 
-
-
 ## Relevant Coursework 
 
-
-
-## Professional Experiences 
-
-- **Data Solutions Engineer Intern \| Wayfair LLC \| Boston MA \| June 2019 – August 2019** 
-  - Recreated the metrics and visualizations, and streamlined the dashboard previously used by departments in EU with Vertica SQL, more illustrative front-end implementation, and multi-dimensional filters; created dashboard capitalized by 2000+ Pricing & Profit Management employees in Wayfair US, and EU to land business marketing strategies. 
-  - Assisted stakeholders with day-to-day inquiries: collected existing data with SQL, developed algorithms to compute metric numbers, improved data process workflow by embedding data integrity checks, and pipelined data among multiple clusters
-- **Undergraduate Student Instructor of Math1A, CS61A, CS61B | UC Berkeley | Berkeley CA**
-  - Lead weekly labs and discussion sections to teach core technical concepts; prepared worksheets, quizzes and exams; proctored midterms and finals; hold weekly office hours to guide students in homework and related questions.
-- **Data Analyst Intern | Rabobank | Shanghai, China | July 2017 – August 2017**
-  - Attained raw marketing and sales data of 100+ companies’ beverages using Bloomberg, categorized data with R, and analyzed and predicted marketing trends using Lagrange and Adam Moulton interpolation. 
-  - Performed extensive industry research and data-mining on the marketing trends and premiumization of beverage, and drafted a five-page report on forecasting a gradual premiumization of beverages in the next decade in China. 
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
+Here is a list of courses I have taken which might be relevant to my future job. 
 
 | Class Number   | Course Title                                                 |
 | :------------- | :----------------------------------------------------------- |
@@ -96,48 +36,22 @@ end
 | STATISTICS 135 | Concepts of Statistics                                       |
 | IEOR 173       | Introduction to Stochastic Processes                         |
 
+## Professional Experiences 
 
-### There's a horizontal rule below this.
+- **Data Solutions Engineer Intern \| Wayfair LLC \| Boston MA \| June 2019 – August 2019** 
+  - Recreated the metrics and visualizations, and streamlined the dashboard previously used by departments in EU with Vertica SQL, more illustrative front-end implementation, and multi-dimensional filters; created dashboard capitalized by 2000+ Pricing & Profit Management employees in Wayfair US, and EU to land business marketing strategies. 
+  - Assisted stakeholders with day-to-day inquiries: collected existing data with SQL, developed algorithms to compute metric numbers, improved data process workflow by embedding data integrity checks, and pipelined data among multiple clusters
+- **Undergraduate Student Instructor of Math1A, CS61A, CS61B \| UC Berkeley \| Berkeley CA**
+  - Lead weekly labs and discussion sections to teach core technical concepts; prepared worksheets, quizzes and exams; proctored midterms and finals; hold weekly office hours to guide students in homework and related questions.
+- **Data Analyst Intern \| Rabobank \| Shanghai, China \| July 2017 – August 2017**
+  - Attained raw marketing and sales data of 100+ companies’ beverages using Bloomberg, categorized data with R, and analyzed and predicted marketing trends using Lagrange and Adam Moulton interpolation. 
+  - Performed extensive industry research and data-mining on the marketing trends and premiumization of beverage, and drafted a five-page report on forecasting a gradual premiumization of beverages in the next decade in China. 
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+[Link to another page](./another-page.html).
 
 ### Large image
 
-![Branching](https://github.com/Liaoqitian/liaoqitian.github.io/blob/master/Sit.jpg)
+![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/Sit.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
