@@ -20,7 +20,7 @@ Hello everyone! I am an EECS Masters student at University of California, Berkel
 
 ## Professional Experiences 
 
-- **Data Solutions Engineer Intern | Wayfair LLC | Boston MA| June 2019 – August 2019** 
+- **Data Solutions Engineer Intern \| Wayfair LLC \| Boston MA \| June 2019 – August 2019** 
   - Recreated the metrics and visualizations, and streamlined the dashboard previously used by departments in EU with Vertica SQL, more illustrative front-end implementation, and multi-dimensional filters; created dashboard capitalized by 2000+ Pricing & Profit Management employees in Wayfair US, and EU to land business marketing strategies. 
   - Assisted stakeholders with day-to-day inquiries: collected existing data with SQL, developed algorithms to compute metric numbers, improved data process workflow by embedding data integrity checks, and pipelined data among multiple clusters
 - **Undergraduate Student Instructor of Math1A, CS61A, CS61B | UC Berkeley | Berkeley CA**
