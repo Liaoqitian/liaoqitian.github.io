@@ -4,13 +4,17 @@
 
 Hello everyone! I am an EECS Masters student at University of California, Berkeley. I just finished my undergraduate career at the same school with double major in Computer Science and Applied Mathematics. Welcome to my personal website! Here you can learn more about my experiences and the projects I did. I am currently looking for a full-time software engineer position. Feel free to contact me! Thank you! 
 
+![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/Sit.jpg)
+
 ## Education Background
 
 - **University of California, Berkeley \| Expected Graduation: Jun.2021**
   - M.S. Electrical Engineering and Computer Science                                                                          
 - **University of California, Berkeley \| Aug.2016 – Jun. 2020**
   - B.A. Computer Science, B.A. Applied Mathematics, Minor in German
-  - Major GPA: 3.98, Overall GPA: 3.983 | Dean’s Honors to Date
+  - Major GPA: 3.98, Overall GPA: 3.983 \| Dean’s Honors to Date
+
+
 
 ## Relevant Coursework 
 
@@ -51,7 +55,7 @@ Here is a list of courses I have taken which might be relevant to my future job.
 
 ### Large image
 
-![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/Sit.jpg)
+
 
 
 ### Definition lists can be used with HTML syntax.
