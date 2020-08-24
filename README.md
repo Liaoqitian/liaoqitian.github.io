@@ -2,7 +2,7 @@
 
 ## About me
 
-### Hello everyone! I am an EECS Masters student at University of California, Berkeley. I just finished my undergraduate career at the same school with double major in Computer Science and Applied Mathematics. Welcome to my personal website! Here you learn more about the projects I did and my past experiences. I am currently looking for a full-time software engineer position. Feel free to contact me! 
+Hello everyone! I am an EECS Masters student at University of California, Berkeley. I just finished my undergraduate career at the same school with double major in Computer Science and Applied Mathematics. Welcome to my personal website! Here you can learn more about my experiences and the projects I did. I am currently looking for a full-time software engineer position. Feel free to contact me! Thank you! 
 
 
 
