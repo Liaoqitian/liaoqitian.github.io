@@ -2,7 +2,7 @@
 
 Hello everyone! I am an EECS Masters student at University of California, Berkeley. I just finished my undergraduate career at the same school with double major in Computer Science and Applied Mathematics. Welcome to my personal website! Here you can learn more about my experiences and the projects I did. I am currently looking for a full-time software engineer position. Feel free to contact me! Thank you! 
 
-![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/images/Sit.jpg)
+![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/assets/images/sit.jpg)
 
 # Education Background
 
@@ -12,7 +12,7 @@ Hello everyone! I am an EECS Masters student at University of California, Berkel
   - B.A. Computer Science, B.A. Applied Mathematics, Minor in German
   - Major GPA: 3.98, Overall GPA: 3.983 \| Dean’s Honors to Date
 
-![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/images/berkeley.png)
+![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/assets/images/berkeley.png)
 
 # Relevant Coursework 
 
@@ -38,7 +38,7 @@ Here is a list of courses I have taken which might be relevant to my future job.
 | STATISTICS 135 | Concepts of Statistics                                       |
 | IEOR 173       | Introduction to Stochastic Processes                         |
 
-![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/images/minecraft.png)
+![Branching](https://raw.githubusercontent.com/Liaoqitian/liaoqitian.github.io/master/assets/images/minecraft.png)
 
 # Professional Experiences 
 
