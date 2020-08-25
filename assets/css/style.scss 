@@ -2,29 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-  header a.linkedin {
-    position: relative;
-    display: inline-block;
-    width: auto;
-    height: auto;
-    padding: 5px 10px;
-    margin-top: 15px;
-    font-size: 13px;
-    line-height: 1;
-    color: #2879d0;
-    text-align: center;
-    background-color: #9ddcff;
-    background-image: none;
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-  }
 
-  aside a.linkedin {
-    display: block;
-    width: 138px;
-    padding-left: 64px;
-    margin-bottom: 20px;
-    font-size: 21px;
-    background-color: yellow;
-  }
+aside resume.button {
+  display: block;
+  width: 138px;
+  padding-left: 64px;
+  margin-bottom: 20px;
+  font-size: 21px;
+  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+}
