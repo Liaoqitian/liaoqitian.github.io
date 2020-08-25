@@ -18,7 +18,7 @@ Hello everyone! I am an EECS Masters student at University of California, Berkel
 
 Here is a list of courses I have taken which might be relevant to my future job. 
 
-| Class Number   | Course Title                                                 |
+| Course Number  | Course Title                                                 |
 | :------------- | :----------------------------------------------------------- |
 | COMPSCI 61A    | The Structure and Interpretation of Computer Programs        |
 | COMPSCI 61B    | Data Structures and Programming Methodology                  |
