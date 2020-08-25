@@ -51,4 +51,4 @@ Here is a list of courses I have taken which might be relevant to my future job.
   - Attained raw marketing and sales data of 100+ companies’ beverages using Bloomberg, categorized data with R, and analyzed and predicted marketing trends using Lagrange and Adam Moulton interpolation. 
   - Performed extensive industry research and data-mining on the marketing trends and premiumization of beverage, and drafted a five-page report on forecasting a gradual premiumization of beverages in the next decade in China. 
 
-
+# Programming Languages
