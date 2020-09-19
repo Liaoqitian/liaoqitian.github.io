@@ -53,3 +53,6 @@ Here is a list of courses I have taken which might be relevant to my future job.
 
 # Programming Languages
 Java \| Python \| C \| C++ \| LaTeX \| SQL \| JavaScript \| HTML \| CSS \| RISC-V \| R \| Scheme
+
+# Languages 
+English \| German \| Mandarin
